@@ -1,0 +1,1 @@
+export const urlBackend = "https://apipos.shopcurations.shop/api"
